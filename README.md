@@ -1,0 +1,1 @@
+# Optimising-Online-Revenue- Used SQL  to analyze product data for an online sports retail company. Worked with numeric, string, and timestamp data on pricing and revenue, ratings, reviews, descriptions, and website traffic.
